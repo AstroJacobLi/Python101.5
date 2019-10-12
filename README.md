@@ -35,7 +35,7 @@ PKUYAS Seminar on Python for astronomers and physicists, Fall Semester 2019.
 
 1. 基础知识回顾；如何画漂亮的图
 2. 如何根据数据去拟合一个模型
-3. 贝叶斯统计
+3. 贝叶斯统计. Sample ---(inference)--->  Population
 4. 高斯过程
 5. 卷积神经网络和深度学习
 6. 天文数据简介；天体物理研究中常用的packages
@@ -45,6 +45,9 @@ PKUYAS Seminar on Python for astronomers and physicists, Fall Semester 2019.
 https://zhuanlan.zhihu.com/p/69869004
 https://github.com/jobbole/awesome-python-cn
 
+https://taotie.readthedocs.io/en/latest/resource/programing/python_statistics.html#sampling-tools-and-bayesian-analysis
+
+Berkeley Python Seminar: https://github.com/profjsb/python-seminar
 ## License
 
 Copyright 2019 [Jiaxuan Li 李嘉轩](astrojacobli.github.io) and contributors.
