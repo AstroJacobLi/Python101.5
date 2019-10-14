@@ -1,3 +1,5 @@
+
+
 # Lecture 1: Setting up your computer -- Operating system, Git, SSH and Python
 
 ## Operating System
@@ -47,9 +49,9 @@ others: only read and execute permissions.
 - For other users:
 ``chmod o-wx filename`` to remove write and executable permissions.
 
+![linux-file-permission](https://github.com/AstroJacobLi/Python101.5/raw/master/Lecture1/linux-file-permission.png)
 
-
-### [More on Bash]
+### More on Bash
 ``~/.bash_rc`` or ``~/.bash_profile``: config file of bash. 
 ``~/.bash_history``: history of bash. 
 
@@ -78,8 +80,7 @@ Options:
 -f file : Takes patterns from file, one per line.
 -E : Treats pattern as an extended regular expression (ERE)
 **-w : Match whole word**
--o : Print only the matched parts of a matching line,
- with each such part on a separate output line.
+-o : Print only the matched parts of a matching line, with each such part on a separate output line.
 
 ``grep -c permission lec.txt``
 
@@ -112,11 +113,15 @@ Common usage: ``:q, :w, :wq, :q!, h, j, k, l, w, b, e, u, ctrl+R``
 
 ## Git
 Git is a distributed version-control system for tracking changes in source code during software development.
+
 Reference: [Git tutorial](http://marwahaha.github.io/2015-07-09-berkeley/git/), [Set SSH on GitHub](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent), [``git`` cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf).
 
 ## Python
 Pros: high level, open-source, widely used, countless third-party packages in various areas, large and active community, ML/DL.
+
 Cons: Slow? (Cython)
+
+![compile-process](https://github.com/AstroJacobLi/Python101.5/raw/master/Lecture1/compile-process.png)
 
 #### Installation
 Anaconda: https://www.anaconda.com; 清华镜像: https://mirrors.tuna.tsinghua.edu.cn.
@@ -136,6 +141,7 @@ Best choice: VSCode + [Jupyter](https://jupyter.org)! Jupyter = julia + python +
 [Jupyter extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions), [Jupyter notebook viewer](https://nbviewer.jupyter.org), some shortcuts.
 
 
+![The-Outsourcing-Learning-Curve](https://github.com/AstroJacobLi/Python101.5/raw/master/Lecture1/The-Outsourcing-Learning-Curve.png)
 
 ## Homework
 1. register an account in Beida cluster; connect using SSH; try file permissions.
