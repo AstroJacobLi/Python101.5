@@ -1,0 +1,7 @@
+total 55504
+-rw-r--r--  1 jiaxuanli  staff     0B Oct 14 18:03 dir.txt
+-rw-r--r--  1 jiaxuanli  staff   1.9K Oct 14 18:03 Lecture1.md
+-rw-r--r--@ 1 jiaxuanli  staff   474K Oct 14 17:06 linux-file-permission.png
+-rw-r--r--@ 1 jiaxuanli  staff   4.1K Oct 12 15:15 README.md
+-rw-r--r--  1 jiaxuanli  staff   1.0K Sep 29 11:29 LICENSE
+-rw-r--r--@ 1 jiaxuanli  staff    27M Sep 23 14:40 Python-for-Astronomers-Imad-Pasha.pdf

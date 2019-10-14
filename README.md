@@ -41,8 +41,11 @@ PKUYAS Seminar on Python for astronomers and physicists, Fall Semester 2019.
 6. 天文数据简介；天体物理研究中常用的packages
 7. 其他领域（金融与Python？）
 
-### 参考资料
+### 参考资料: standing on the shoulders of giants
+https://prappleizer.github.io
+
 https://zhuanlan.zhihu.com/p/69869004
+
 https://github.com/jobbole/awesome-python-cn
 
 https://taotie.readthedocs.io/en/latest/resource/programing/python_statistics.html#sampling-tools-and-bayesian-analysis
