@@ -23,7 +23,7 @@ PKUYAS Seminar on Python for astronomers and physicists, Fall Semester 2019.
 
 一个物理/天文工作者在使用什么工具？
 
-1. Windows/Linus/MacOS；如何设置自己的计算机；Unix入门；GitHub入门；Jupyter Notebook入门
+1. [Windows/Linus/MacOS；如何设置自己的计算机；Unix入门；GitHub入门；Jupyter Notebook入门](https://github.com/AstroJacobLi/Python101.5/blob/master/Lecture1/Lecture1.md)
 2. LaTeX入门（以普物实验报告为例）
 3. Python语言入门：基本语法、几个简单的内置Packages
 4. Numpy入门；Scipy入门
