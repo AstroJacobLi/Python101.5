@@ -42,12 +42,12 @@ others: only read and execute permissions.
 - For the owner:
 ``chmod +rwx filename`` to add permissions.
 ``chmod -wx filename`` to remove write and executable permissions.
-
 - For group members:
 ``chmod g+rwx filename`` to add permissions.
-
 - For other users:
 ``chmod o-wx filename`` to remove write and executable permissions.
+
+- Numerical expression: binary numbers
 
 ![linux-file-permission](https://github.com/AstroJacobLi/Python101.5/raw/master/Lecture1/linux-file-permission.png)
 
@@ -143,6 +143,14 @@ Best choice: VSCode + [Jupyter](https://jupyter.org)! Jupyter = julia + python +
 
 ![The-Outsourcing-Learning-Curve](https://github.com/AstroJacobLi/Python101.5/raw/master/Lecture1/The-Outsourcing-Learning-Curve.png)
 
+Life of a programmer:
+
+![jakevdp](https://github.com/AstroJacobLi/Python101.5/raw/master/Lecture1/jakevdp.png)
+
+
+
 ## Homework
+
 1. register an account in Beida cluster; connect using SSH; try file permissions.
 2. [Regular Expression](https://github.com/ziishaned/learn-regex)
+3. Jake VanderPlas: http://jakevdp.github.io; **Python data science book**: https://github.com/jakevdp/PythonDataScienceHandbook
