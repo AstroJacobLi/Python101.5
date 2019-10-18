@@ -150,7 +150,7 @@ Life of a programmer:
 
 
 ## Homework
-
+0. Register an GitHub account 
 1. register an account in Beida cluster; connect using SSH; try file permissions.
 2. [Regular Expression](https://github.com/ziishaned/learn-regex)
 3. Jake VanderPlas: http://jakevdp.github.io; **Python data science book**: https://github.com/jakevdp/PythonDataScienceHandbook
